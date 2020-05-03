@@ -1,0 +1,13 @@
+C:\Users\james\Desktop\deltav401\401DSA\PreworkChallenges\CodeChallengePrework\CodeChallengePrework\obj\Debug\netcoreapp3.1\CodeChallengePrework.csprojAssemblyReference.cache
+C:\Users\james\Desktop\deltav401\401DSA\PreworkChallenges\CodeChallengePrework\CodeChallengePrework\obj\Debug\netcoreapp3.1\CodeChallengePrework.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\deltav401\401DSA\PreworkChallenges\CodeChallengePrework\CodeChallengePrework\obj\Debug\netcoreapp3.1\CodeChallengePrework.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\deltav401\401DSA\PreworkChallenges\CodeChallengePrework\CodeChallengePrework\obj\Debug\netcoreapp3.1\CodeChallengePrework.AssemblyInfo.cs
+C:\Users\james\Desktop\deltav401\401DSA\PreworkChallenges\CodeChallengePrework\CodeChallengePrework\bin\Debug\netcoreapp3.1\CodeChallengePrework.exe
+C:\Users\james\Desktop\deltav401\401DSA\PreworkChallenges\CodeChallengePrework\CodeChallengePrework\bin\Debug\netcoreapp3.1\CodeChallengePrework.deps.json
+C:\Users\james\Desktop\deltav401\401DSA\PreworkChallenges\CodeChallengePrework\CodeChallengePrework\bin\Debug\netcoreapp3.1\CodeChallengePrework.runtimeconfig.json
+C:\Users\james\Desktop\deltav401\401DSA\PreworkChallenges\CodeChallengePrework\CodeChallengePrework\bin\Debug\netcoreapp3.1\CodeChallengePrework.runtimeconfig.dev.json
+C:\Users\james\Desktop\deltav401\401DSA\PreworkChallenges\CodeChallengePrework\CodeChallengePrework\bin\Debug\netcoreapp3.1\CodeChallengePrework.dll
+C:\Users\james\Desktop\deltav401\401DSA\PreworkChallenges\CodeChallengePrework\CodeChallengePrework\bin\Debug\netcoreapp3.1\CodeChallengePrework.pdb
+C:\Users\james\Desktop\deltav401\401DSA\PreworkChallenges\CodeChallengePrework\CodeChallengePrework\obj\Debug\netcoreapp3.1\CodeChallengePrework.dll
+C:\Users\james\Desktop\deltav401\401DSA\PreworkChallenges\CodeChallengePrework\CodeChallengePrework\obj\Debug\netcoreapp3.1\CodeChallengePrework.pdb
+C:\Users\james\Desktop\deltav401\401DSA\PreworkChallenges\CodeChallengePrework\CodeChallengePrework\obj\Debug\netcoreapp3.1\CodeChallengePrework.genruntimeconfig.cache
