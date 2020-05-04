@@ -6,25 +6,40 @@ namespace CodeChallengePrework
     {
         static void Main(string[] args)
         {
-            LeapYearCalc();
+            PerfectSequence();
         }
-        private static void LeapYearCalc()
+        public static void PerfectSequence()
         {
 
-            Console.Write("Input an year : ");
-            int year = int.Parse(Console.ReadLine());
+            Console.WriteLine("Provide numbers for your array");
+            int arrLength = int.Parse(Console.ReadLine());
+            int inputSum = 0;
+            int inputProduct = 1;
+            int[] userInput = new int[arrLength];
+            for (int i = 0; i < arrLength; i++)
+            {
+                Console.WriteLine("Please enter another number");
+                userInput[i] = int.Parse(Console.ReadLine());
+            }
 
-            if ((year % 400) == 0)
-                Console.WriteLine("{0} is a leap year.", year);
-            else if ((year % 100) == 0)
-                Console.WriteLine("{0} is not a leap year.", year);
-            else if ((year % 4) == 0)
-                Console.WriteLine("{0} is a leap year.", year);
+            foreach (int number in userInput)
+            {               
+                inputProduct *= number;
+                inputSum += number;
+            }
+       
+            if (inputSum > 0 && inputSum == inputProduct)
+            {
+                Console.WriteLine("Yes");
+            }
             else
-                Console.WriteLine("{0} is not a leap year.", year);
+            {
+                Console.WriteLine("No");
+            }
         }
     }
 }
+
 
  
 
